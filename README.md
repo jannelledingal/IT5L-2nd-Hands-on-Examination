@@ -8,6 +8,12 @@ Problem S1:
 
 <img width="339" height="74" alt="image" src="https://github.com/user-attachments/assets/d4f07c12-e97d-423a-a0e9-ed47dfefa707" />
 
+
+<img width="276" height="67" alt="image" src="https://github.com/user-attachments/assets/bdb2f7a0-69b0-44d3-8dd3-2d6efa8ac68f" />
+
+
+<img width="418" height="66" alt="image" src="https://github.com/user-attachments/assets/7d785ce9-2de2-4173-ac41-d68bc4dbde29" />
+
 ---
 
 Problem S2:
